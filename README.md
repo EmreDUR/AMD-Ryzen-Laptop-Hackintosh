@@ -15,7 +15,7 @@ To use this EFI folder, simply copy all contents to a USB drive and boot from it
 ---
 
 **Note:** 
- - Please change MLB/ROM/Serial Number/UUID.
+ - Edit your SMBIOS values (MLB, ROM, Serial Number, UUID).
  - **Only Network Recovery functionality is tested,** remove GenericUSBXHCI kext after installation.
 ---
 **Warning:**  Distributing macOS or modified macOS installers/images/folders is against the  macOS End User License  Agreement. This repo only contains EFI boot files and no  macOS system files.
