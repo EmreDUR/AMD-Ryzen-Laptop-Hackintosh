@@ -1,4 +1,6 @@
-# AMD-Ryzen-Laptop-Hackintosh
+# Acer-Swift-3-Hackintosh
+
+## Only tested for Network Recovery boot!
 
 This repository contains my EFI folder for booting macOS.
 
